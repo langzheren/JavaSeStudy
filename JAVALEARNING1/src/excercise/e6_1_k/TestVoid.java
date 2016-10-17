@@ -12,6 +12,7 @@ public class TestVoid {
 		Scanner input = new Scanner(System.in);
 		double a = input.nextDouble();
 		printGrade(a);
+		System.out.println(printGradeReturn(a));
 	}
 	
 	public static void printGrade(double a){
