@@ -2,9 +2,9 @@ package excercise;
 
 import java.util.Scanner;
 
-import excercise.z7_1.ArrayTest;
-import excercise.z7_1.CountLettersInArray;
-import excercise.z7_1.TestArrayCopy;
+import excercise.e7_1.ArrayTest;
+import excercise.e7_1.CountLettersInArray;
+import excercise.e7_1.TestArrayCopy;
 
 public class AllTest {
 
